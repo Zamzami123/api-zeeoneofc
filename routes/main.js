@@ -16,9 +16,9 @@ router.get('/config', (req, res) => {
         status: true,
         result: {
             prefix : '/',
-            namabot: 'ZhirrrBot',
-            namaowner: 'Zhirrr',
-            instagram: 'zhirr_ajalah',
+            namabot: 'Chieko V-6',
+            namaowner: 'Bang Zaki',
+            instagram: 'zaki.blitar',
             youtube : 'Gak Punya'
         }
     }
